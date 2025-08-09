@@ -1,5 +1,5 @@
-<svg class="logo" viewBox="0 0 200 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="logo" transform="translate(-10.000000, -10.000000)">
-    <text x="10" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="currentColor">Hanzhi Yang</text>
-  </g>
+<svg class="logo" viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="30" font-size="30" font-family="Arial, sans-serif" fill="black">
+    Hanzhi Yang
+  </text>
 </svg>

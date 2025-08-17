@@ -1,10 +1,8 @@
 # SITE CONFIGURATION
 title: Hanzhi Yang # your site title
-author: GitHub User # You :P
+author: Hanzhiyang3549 # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hanzhi Yang’s Portfolio. Thoughtfully handmade product, with details that make life easier.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://HanzhiYang3549.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,12 +10,11 @@ url: "https://HanzhiYang3549.github.io/" # the base hostname & protocol for your
 social:
   name: Hanzhi Yang
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://x.com/yanghanzhi79
+    - https://www.instagram.com/hzyang3549
+    - https://www.facebook.com/share/1P3Y1qEVWQ/?mibextid=wwXIfr
+    - http://disqus.com/by/Hanzhiyang3549
+    - https://github.com/HanzhiYang3549
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -26,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  An industrial designer who is passionate about exploring natural materials and immersed in the process of handcrafting products
 
 hero_img: posts/lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
@@ -37,7 +34,7 @@ github_username:  HanzhiYang3549 # replace with your_github_username or comment 
 instagram_username: hzyang3549 # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: Hanzhiyang3549 # to enable comments replace with your_disqus_shortname
 
 # google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 

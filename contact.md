@@ -10,7 +10,3 @@ If you have any ideas or project proposals, please feel free to contact me via e
 - 📧 Email: [yanghanzhi79@gmail.com](mailto:yanghanzhi79@gmail.com)  
 - 📷 Instagram: [hzyang3549](https://www.instagram.com/hzyang3549)  
 - ❌ X / Facebook: [@yanghanzhi79](https://x.com/yanghanzhi79)  
-
-{% include form.html %}
-
-{% include modal.html %}
